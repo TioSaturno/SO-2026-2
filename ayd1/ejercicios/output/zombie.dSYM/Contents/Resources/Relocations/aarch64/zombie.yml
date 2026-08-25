@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tiosaturno/Desktop/Universidad/SO/ayd1/ejercicios/output/zombie'
+relocations:     []
+...
